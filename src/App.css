@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.verde{
+  background-color: green;
+}
+.vermello{
+  background-color: red;
+}
+.neutro{
+  background-color: black;
+  color:white;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
