@@ -11,6 +11,6 @@
 - "Crea un compoñente de texto que mostre unha mensaxe predeterminado na pantalla."
 - "Crea un compoñente de texto que poda ser editado pulsando un botón ou imaxen."
 
-## Nota
+### Nota
 
 > Se te ves capaz, utiliza máis de un compoñente nos exercicios, traballa con ``import`` e ``export`` dunha maneira axeitada.
