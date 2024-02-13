@@ -6,9 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+input:focus{
+  background-color: yellow;
+}
 .verde{
   background-color: green;
+  color:white;
 }
 .vermello{
   background-color: red;
